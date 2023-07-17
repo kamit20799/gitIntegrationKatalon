@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+first suite,Chrome 114.0.0.0,,,2023-07-17 22:54:21,2023-07-17 22:54:47,26.043s,PASSED
+,,,,,,,
+Test Cases/test2,Chrome 114.0.0.0,,,2023-07-17 22:54:22,2023-07-17 22:54:31,9.347s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-17 22:54:22,2023-07-17 22:54:25,3.228s,PASSED
+"navigateToUrl(""https://commitquality.com/"")",Chrome 114.0.0.0,,,2023-07-17 22:54:25,2023-07-17 22:54:27,2.086s,PASSED
+"click(findTestObject(""Object Repository/Page_CommitQuality - Test Automation Demo/a_Practice""))",Chrome 114.0.0.0,,,2023-07-17 22:54:27,2023-07-17 22:54:28,0.623s,PASSED
+"click(findTestObject(""Object Repository/Page_CommitQuality - Test Automation Demo/h2_Accordions""))",Chrome 114.0.0.0,,,2023-07-17 22:54:28,2023-07-17 22:54:28,0.525s,PASSED
+"click(findTestObject(""Object Repository/Page_CommitQuality - Test Automation Demo/button_Accordion 1""))",Chrome 114.0.0.0,,,2023-07-17 22:54:28,2023-07-17 22:54:29,0.537s,PASSED
+"click(findTestObject(""Object Repository/Page_CommitQuality - Test Automation Demo/button_Click me""))",Chrome 114.0.0.0,,,2023-07-17 22:54:29,2023-07-17 22:54:30,0.704s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_CommitQuality - Test Automation Demo/p_Button clicked""), 0)",Chrome 114.0.0.0,,,2023-07-17 22:54:30,2023-07-17 22:54:30,0.496s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-17 22:54:30,2023-07-17 22:54:31,0.733s,PASSED
+,,,,,,,
+Test Cases/test1,Chrome 114.0.0.0,,,2023-07-17 22:54:31,2023-07-17 22:54:41,9.815s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-17 22:54:31,2023-07-17 22:54:33,1.355s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 114.0.0.0,,,2023-07-17 22:54:33,2023-07-17 22:54:36,3.732s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 114.0.0.0,,,2023-07-17 22:54:36,2023-07-17 22:54:39,2.433s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_CURA Healthcare Service/p_Please login to make appointment""))",Chrome 114.0.0.0,,,2023-07-17 22:54:39,2023-07-17 22:54:40,0.733s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_CURA Healthcare Service/p_Please login to make appointment""), 0)",Chrome 114.0.0.0,,,2023-07-17 22:54:40,2023-07-17 22:54:40,0.366s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-17 22:54:40,2023-07-17 22:54:41,0.691s,PASSED
+,,,,,,,
+Test Cases/test2,Chrome 114.0.0.0,,,2023-07-17 22:54:41,2023-07-17 22:54:47,6.577s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-17 22:54:41,2023-07-17 22:54:42,1.582s,PASSED
+"navigateToUrl(""https://commitquality.com/"")",Chrome 114.0.0.0,,,2023-07-17 22:54:42,2023-07-17 22:54:44,1.813s,PASSED
+"click(findTestObject(""Object Repository/Page_CommitQuality - Test Automation Demo/a_Practice""))",Chrome 114.0.0.0,,,2023-07-17 22:54:44,2023-07-17 22:54:45,0.515s,PASSED
+"click(findTestObject(""Object Repository/Page_CommitQuality - Test Automation Demo/h2_Accordions""))",Chrome 114.0.0.0,,,2023-07-17 22:54:45,2023-07-17 22:54:45,0.467s,PASSED
+"click(findTestObject(""Object Repository/Page_CommitQuality - Test Automation Demo/button_Accordion 1""))",Chrome 114.0.0.0,,,2023-07-17 22:54:45,2023-07-17 22:54:46,0.473s,PASSED
+"click(findTestObject(""Object Repository/Page_CommitQuality - Test Automation Demo/button_Click me""))",Chrome 114.0.0.0,,,2023-07-17 22:54:46,2023-07-17 22:54:46,0.561s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_CommitQuality - Test Automation Demo/p_Button clicked""), 0)",Chrome 114.0.0.0,,,2023-07-17 22:54:46,2023-07-17 22:54:47,0.524s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-17 22:54:47,2023-07-17 22:54:47,0.637s,PASSED
